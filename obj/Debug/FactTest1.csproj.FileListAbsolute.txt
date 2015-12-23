@@ -1,0 +1,16 @@
+C:\Users\elennox\Desktop\junk\FactTest1\FactTest1\bin\Debug\FactTest1.exe.config
+C:\Users\elennox\Desktop\junk\FactTest1\FactTest1\bin\Debug\FactTest1.exe
+C:\Users\elennox\Desktop\junk\FactTest1\FactTest1\bin\Debug\FactTest1.pdb
+C:\Users\elennox\Desktop\junk\FactTest1\FactTest1\obj\Debug\FactTest1.csprojResolveAssemblyReference.cache
+C:\Users\elennox\Desktop\junk\FactTest1\FactTest1\obj\Debug\MainWindow.g.cs
+C:\Users\elennox\Desktop\junk\FactTest1\FactTest1\obj\Debug\App.g.cs
+C:\Users\elennox\Desktop\junk\FactTest1\FactTest1\obj\Debug\FactTest1_MarkupCompile.cache
+C:\Users\elennox\Desktop\junk\FactTest1\FactTest1\obj\Debug\FactTest1_MarkupCompile.lref
+C:\Users\elennox\Desktop\junk\FactTest1\FactTest1\obj\Debug\MainWindow.baml
+C:\Users\elennox\Desktop\junk\FactTest1\FactTest1\obj\Debug\FactTest1.g.resources
+C:\Users\elennox\Desktop\junk\FactTest1\FactTest1\obj\Debug\FactTest1.Properties.Resources.resources
+C:\Users\elennox\Desktop\junk\FactTest1\FactTest1\obj\Debug\FactTest1.csproj.GenerateResource.Cache
+C:\Users\elennox\Desktop\junk\FactTest1\FactTest1\obj\Debug\FactTest1.exe
+C:\Users\elennox\Desktop\junk\FactTest1\FactTest1\obj\Debug\FactTest1.pdb
+C:\Users\elennox\Desktop\junk\FactTest1\FactTest1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\elennox\Desktop\junk\FactTest1\FactTest1\bin\Debug\Newtonsoft.Json.xml
